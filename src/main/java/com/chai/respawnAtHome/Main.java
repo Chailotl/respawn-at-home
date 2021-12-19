@@ -1,4 +1,4 @@
-package com.raus.respawnAtHome;
+package com.chai.respawnAtHome;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
